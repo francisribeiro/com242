@@ -1,1 +1,2 @@
-# com242
+# COM242
+Trabalhos da disciplina de sistemas distribuídos
