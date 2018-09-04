@@ -1,7 +1,7 @@
 Parte teórica do Minicurso
 ===================================================
 
-Nessa sessão está disponível o material teórico (SLIDES) da apresentação do grupo e um tutorial de como desenvolver um chati simples utilizando JGroups.
+Nessa sessão está disponível o material teórico (SLIDES) da apresentação do grupo e um tutorial de como desenvolver um chat simples utilizando JGroups.
 
 **O material está disposto da seguinte maneira:**
 
